@@ -8,7 +8,4 @@ function num1tonum2(input) {
     } else {
         console.log(num2);
     }
-
-
-
 }
