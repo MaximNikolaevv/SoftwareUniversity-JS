@@ -1,2 +1,2 @@
 # SoftwareUniversity
-This is my SoftwareUniversity's path with JS.
+This is my JS basics's exercises.
